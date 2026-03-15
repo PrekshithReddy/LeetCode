@@ -6,8 +6,8 @@ Language: Java
 
 Topics Covered
 - Arrays
-- Hash Maps
+- Two Pointers
+- Strings
 - Sliding Window
-- Binary Search
 
 Daily practice for coding interviews.
