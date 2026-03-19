@@ -1,3 +1,8 @@
+// Problem: Maximum Average Subarray I
+// Platform: LeetCode
+// Approach: Sliding Window
+// Time Complexity: O(n)
+// Space Complexity: O(1)
 class Solution {
     public double findMaxAverage(int[] nums, int k) {
        double Average=0;
